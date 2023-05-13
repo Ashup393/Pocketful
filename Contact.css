@@ -1,0 +1,148 @@
+.MainContact{
+    /* margin-top:5% */
+    display: contents;
+    /* grid-template-columns: auto auto; */
+}
+.Contactpage{
+    margin-left:20%;
+}
+
+.Contactus{
+ display: grid;
+ grid-template-columns: auto auto;
+}
+.Getintouch{
+   background-color: rgb(84, 84, 243);
+   width: max-content;
+   color: white;
+}
+.contact-details{
+    margin-top: -52%;
+    margin-left: -4%;
+}
+/* img{
+    width: 30px;
+    height: 48px;
+    margin-right: 10px;
+} */
+p{
+    cursor: pointer;
+    margin-top: 0;
+}
+.Contact_form{
+  
+    border: 4px solid #f7d022;
+    background-color: #fff;
+    padding: 45px 25px 55px;
+    border-radius: 15px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 10;
+    margin: 0 20px;
+    margin-right:3%;
+    margin-top: 5%;
+
+}
+a{
+    font-size: 24px;
+    line-height: 45px;
+    font-weight: 400;
+    /* position: relative; */
+    white-space: pre-line;
+    color: #000;
+}
+.GridContactus{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+  padding: 10px;
+  box-shadow: 10px gray;
+}
+.Headingtag{
+    text-align: center;
+}
+.headingContact{
+    font-family: Helvetica-Neue, Arial, Helvetica, sans-serif;
+    padding-top: 78px;
+}
+.Homecomponent{
+    background-image: url("D:\React\Redux\protectpage\src\Images\back.png");
+    background-repeat: "no-repeat";
+    background-size: "cover";
+}
+h3{
+    color: #000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 37px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+.text-box h4{
+    color: #000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 37px;
+    
+}
+.headingContact h2{
+  
+    text-rendering: optimizeLegibility;
+    margin-top: 0;
+    font-size: 73px;
+    color: #292933;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    letter-spacing: 0
+}
+.Name{
+ /* width:10px;
+ height:10px; */
+ text-decoration: none;
+ width: 70%;
+    padding: 5%;
+    border-radius: 100px;
+    border-width: 2px;
+    /* margin-top: 8% */
+}
+.message{
+    width: 70%;
+    padding: 6%;
+    border-radius: 100px;
+    border-width: 2px;
+    font-family: sans-serif;
+    /* margin-top: 8%; */
+    /* text-decoration: none; */
+}
+.Button{
+    border: none;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 20px;
+    margin: 35px 0 10px 0;
+    outline: 0;
+    cursor: pointer;
+    color: #292933 !important;
+    background: #f7d022;
+    font-weight: 300;
+    text-align: center;
+    padding: 10px 130px;
+    display: inline-block;
+    font-size: 20px;
+    line-height: 26px;
+    border-radius: 5px;
+    border-radius: 100px;
+    border-width: 2px;
+
+}
+.Form_Heading{
+        color: #000;
+        font-size: 30px;
+        letter-spacing: 0;
+        line-height: 37px;
+        
+}
